@@ -10,4 +10,4 @@ select * from dbo.Employees
 
 select top 5 * from dbo.Employees
 
-select employee
+select top 3 employeeid ,salary from Employees
